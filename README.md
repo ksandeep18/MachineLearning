@@ -1,7 +1,7 @@
 # 📁 Machine Learning (ML + DL + Projects)
 
 Welcome to my **Machine Learning** repository!  
-This folder is structured to help me (and others) learn and revise key **Machine Learning** and **Deep Learning** concepts with solid theory, clean implementation, and practical projects — all aimed toward **placement preparation over the next 3 months** 🚀.
+This folder is structured to help learn and revise key **Machine Learning** and **Deep Learning** concepts with solid theory, clean implementation, and practical projects — all aimed toward **placement preparation over the next 3 months** 🚀.
 
 ---
 
@@ -23,8 +23,6 @@ This repo contains **Google Colab notebooks** organized by topics, including bot
 Each notebook is designed to include:
 - ✍️ Concepts with notes and explanations
 - 🧪 Code examples using real data
-- 📂 Sample datasets for practice
-- 📌 Key formulas and use cases
 
 ---
 
