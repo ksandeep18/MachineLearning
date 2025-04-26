@@ -1,3 +1,9 @@
+# Quick Revision:
+1) What is Machine learning
+2) Three key stages of Machine learning
+3) Types of Machine learning
+4) Applications of Machine learning
+   
 # Machine Learning Overview
 
 Machine learning is a subset of artificial intelligence (AI) that focuses on building algorithms and models that allow computers to learn from data and make decisions or predictions without being explicitly programmed for specific tasks.
